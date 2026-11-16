@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Outlaw A.I. — Bot Discord Multi-IA & Sécurité</title>
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; background: #0f0b17; color: #f1f1f5; margin: 0; padding: 0; text-align: center; }
+    .container { max-width: 780px; margin: 60px auto; padding: 24px; }
+    h1 { color: #ff6b00; font-size: 2.5rem; margin-bottom: 10px; }
+    p { color: #b9bbbe; font-size: 1.1rem; line-height: 1.6; }
+    .card { background: #181326; border: 1px solid #2d2444; border-radius: 14px; padding: 24px; margin: 28px 0; text-align: left; }
+    .links { margin-top: 32px; display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+    a.btn { background: #ff6b00; color: #fff; text-decoration: none; padding: 12px 24px; border-radius: 8px; font-weight: 600; }
+    a.btn-sec { background: #231d36; color: #f1f1f5; border: 1px solid #3c3259; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🤖 Outlaw A.I.</h1>
+    <p>L'assistant Discord nouvelle génération : Multi-IA (Groq, ChatGPT, Gemini, xAI Grok, Claude), Sécurité DEFCON & Anti-Arnaque OCR, Multilingue 8 langues et Gestion Communautaire.</p>
+    <div class="card">
+      <h3>✨ Fonctionnalités principales</h3>
+      <ul>
+        <li><strong>Multi-IA BYOK :</strong> Groq gratuit illimité + support ChatGPT, Gemini, Grok et Claude avec gestion des rôles et quotas.</li>
+        <li><strong>Sécurité Militaire :</strong> Niveaux DEFCON 5→1, Captcha éphémère, Honey Pot, Prison et détection d'arnaques par image (OCR).</li>
+        <li><strong>Multilingue natif :</strong> Interface et traduction automatique en 8 langues (FR, EN, ES, DE, IT, PT, RU, EL).</li>
+        <li><strong>Communauté & Veille :</strong> Niveaux XP, Salons vocaux temporaires, Tickets, Giveaways, Flux Reddit, YouTube et Jeux Gratuits.</li>
+      </ul>
+    </div>
+    <div class="links">
+      <a class="btn btn-sec" href="terms.html">📜 Conditions d'Utilisation (ToS)</a>
+      <a class="btn btn-sec" href="privacy.html">🔒 Politique de Confidentialité (RGPD)</a>
+    </div>
+  </div>
+</body>
+</html>
