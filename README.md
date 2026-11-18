@@ -1,3 +1,4 @@
+<img width="1376" height="768" alt="image_4b3102cb" src="https://github.com/user-attachments/assets/781e7f8b-2257-462b-bc7e-51bbf7960c84" />
 # Outlaw A.I. — Gaming Outlaws Bot (v2.0)
 
 [🇫🇷 Version Française](#-version-française) • [🇬🇧 English Version](#-english-version)
