@@ -43,5 +43,4 @@ Includes a 7-day free trial unlocking expanded limits across temporary channels,
 
 ---
 
-*Outlaw A.I. — Gaming Outlaws C
-ommunity Bot*
+*Outlaw A.I. — Gaming Outlaws Bot by Draco https://discord.gg/je3QEwdKKp *
