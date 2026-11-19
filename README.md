@@ -31,33 +31,39 @@ Idéal pour les serveurs **gaming**, **communautaires** et **créateurs** qui ve
 
 ### Fonctions principales
 
-#### 🛡️ Sécurité & modération
-- Protection anti-raid configurable (seuils, durée, actions).
-- **DEFCON**, **Captcha**, **Honey Pot**, **Prison** et **anti-spam images** (QR / OCR).
-- **Logs** détaillés : salons, rôles, invitations, membres, messages, vocal, emoji, protection, OCR — chaque famille avec son salon et ses options.
-- Outils de modération staff (sanctions, nettoyage, rôles).
+### ⚙️ Administration (1 commande par ligne)
+- **`/settings`** : Panneau central de configuration (bienvenue, langues, giveaways, tickets, flux, vocaux temporaires).
+- **`/set ai`** : Configuration des fournisseurs d'IA, clés API, quotas et accès par rôle.
+- **`/protect`** : Panneau de sécurité Anti-Raid, DEFCON, Captcha, Honey Pot, Prison et Logs.
+- **`/xplevels`** : Gestion complète du système d'XP, des rôles de niveau, de l'économie et du casino.
+- **`/role access`** : Gestion des permissions par rôles sur les commandes et modules.
+- **`/help`** : Menu d'aide interactif classé par catégories.
 
-#### ⚙️ Configuration professionnelle
-- **`/settings`** : panneau central (bienvenue, niveaux, économie, YouTube, giveaways, langues, et plus).
-- **`/protect`** : anti-raid et sous-menus (Autres, Logs) en quelques clics.
-- Interface **éphémère** : seuls les admins voient les réglages ; rien n’encombre le salon.
-- **8 langues** (FR, EN, ES, DE, IT, PT, RU, EL) + mode multilingue par rôles.
+### 🛡️ Sécurité & Modération
+- **Système de prison / jail** : Isolement des membres sanctionnés.
+- **Captcha V2** : Vérification des nouveaux arrivants.
+- **Protection Anti-Raid + DEFCON** : Détection automatique des raids massifs.
+- **Honeypot & Anti-Scam (OCR)** : Salon piège et analyse d'images suspectes.
+- **Logs complets & Outils `/mod`** : Journaux détaillés et modération rapide (Warn, Mute, Kick, Ban).
 
-#### 📈 Engagement & progression
-- Système de **niveaux / XP** et cartes de rang.
-- **Économie** et **casino** pour animer le quotidien.
-- **Giveaways**, **anniversaires**, **reaction roles** (boutons & réactions).
-- **Jeux** : Snake, Morpion, Puissance 4, RPS, slots, find-emoji, mèmes, blagues.
+### 📈 Communauté & Engagement
+- **XP & Rank (`/rank`)** : Progression textuelle/vocale et cartes de rang.
+- **Économie & Casino (`/eco`, `/casino`)** : Portefeuille, boutique, mini-jeux de hasard (Blackjack, Roulette, etc.).
+- **Giveaways, Anniversaires & Counting** : Animations automatiques et mini-jeu communautaire.
+- **Reaction Roles & Temp Voice** : Rôles par réactions et salons vocaux temporaires.
+- **Welcome / Goodbye** : Messages d'arrivée et de départ personnalisables.
 
-#### 🤖 IA & communication
-- Commandes **IA** intégrées (plusieurs fournisseurs selon plan).
-- **Traduction** et outils d’**embed** pour le staff et la communauté.
-- **Watch Together** : `/youtube watch` pour regarder des vidéos ensemble en vocal.
+### 📣 Contenu & Utilitaires
+- **Musique (`/music`) & Watch Together (`/youtube watch`)** : Lecture audio et sessions vidéo partagées.
+- **Traduction & Embed Builder** : Traduction en 8 langues et création d'embeds.
+- **Notifications & Flux** : Alertes YouTube, jeux gratuits (Free Games), flux Reddit et système de tickets.
+- **OutlawChat** : Assistant IA privé en message privé (DM).
 
-#### 📣 Contenu & automatisations
-- Annonces **jeux gratuits** (FreeGames), flux **Reddit**, suivi de chaînes **YouTube**.
-- Message de **bienvenue** / règlement configurables.
-- Vocaux temporaires et menus vocaux.
+### 🤖 Intelligence Artificielle (Hub Multi-Providers)
+- **Hub centralisé** : Suivi des coûts et quotas avec **Groq**, **Grok**, **Gemini**, **ChatGPT (OpenAI)** et **Claude (Anthropic)**.
+
+### 👑 Freemium & Premium
+Comparaison des offres gratuite et premium (essai de 7 jours disponible) : sécurité complète, multiplicateurs d'XP accrus, plus de salons et de fournisseurs IA.
 
 ### Freemium & Premium
 
@@ -108,35 +114,45 @@ Built for **gaming**, **community**, and **creator** servers that want a strong 
 
 ### Core capabilities
 
-#### 🛡️ Security & moderation
-- Configurable anti-raid protection (thresholds, duration, actions).
-- **DEFCON**, **Captcha**, **Honey Pot**, **Jail**, and **image anti-spam** (QR / OCR).
-- Detailed **logs**: channels, roles, invites, members, messages, voice, emoji, protection, OCR — each family with its own channel and toggles.
-- Staff moderation tools (sanctions, cleanup, roles).
+### ⚙️ Administration (1 command per line)
+- **`/settings`**: Central configuration dashboard (welcome, languages, giveaways, tickets, feeds, temp voice).
+- **`/set ai`**: Configuration for AI providers, API keys, quotas, and role access.
+- **`/protect`**: Security dashboard for Anti-Raid, DEFCON, Captcha, Honey Pot, Jail, and Logs.
+- **`/xplevels`**: Full management for XP, level roles, economy, and casino.
+- **`/role access`**: Role-based permission management across commands.
+- **`/help`**: Full interactive help menu sorted by category.
 
-#### ⚙️ Professional configuration
-- **`/settings`**: central hub (welcome, levels, economy, YouTube, giveaways, languages, and more).
-- **`/protect`**: anti-raid and sub-menus (Other, Logs) in a few clicks.
-- **Ephemeral** UI: only admins see the panels; your chat stays clean.
-- **8 languages** (FR, EN, ES, DE, IT, PT, RU, EL) + optional role-based multilingual mode.
+### 🛡️ Security & Moderation
+- **Jail / Prison System**: Isolate rule-breakers.
+- **Captcha V2**: Member verification on join.
+- **Anti-Raid Protection + DEFCON**: Automated raid detection.
+- **Honeypot & Anti-Scam (OCR)**: Automated trap channel and image scanning.
+- **Comprehensive Logs & `/mod` Tools**: Dedicated logs and moderation commands (Warn, Mute, Kick, Ban).
 
-#### 📈 Engagement & progression
-- **Levels / XP** and rank cards.
-- **Economy** and **casino** for daily activity.
-- **Giveaways**, **birthdays**, **reaction roles** (buttons & reactions).
-- **Games**: Snake, Tic-Tac-Toe, Connect 4, RPS, slots, find-emoji, memes, jokes.
+### 📈 Community & Engagement
+- **XP & Rank (`/rank`)**: Text/voice progression and custom rank cards.
+- **Economy & Casino (`/eco`, `/casino`)**: Virtual wallet, shop, and interactive betting games.
+- **Giveaways, Birthdays & Counting**: Automated giveaways and community counting.
+- **Reaction Roles & Temp Voice**: Role assignments and temporary voice channels.
+- **Welcome / Goodbye**: Join and leave messages.
 
-#### 🤖 AI & communication
-- Built-in **AI** commands (providers depend on plan).
-- **Translation** and **embed** tools for staff and members.
-- **Watch Together**: `/youtube watch` to watch videos together in voice.
+### 📣 Content & Utilities
+- **Watch Together (`/youtube watch`)**: Voice playback and shared watch sessions.
+- **Translation & Embed Builder**: Instant translation across 8 languages and custom embeds.
+- **Feeds & Tickets**: YouTube alerts, Free Games, Reddit feeds, and support tickets.
+- **OutlawChat**: Private AI assistant conversations via DM.
 
-#### 📣 Content & automation
-- **Free games** announcements, **Reddit** feeds, **YouTube** channel tracking.
-- Configurable **welcome** / rules messages.
-- Temporary voice channels and voice menus.
+### 🤖 Artificial Intelligence (Multi-Provider Hub)
+- **Centralized Hub**: Quota tracking and support for **
+**Groq**
+**Grok**
+**Gemini**
+**ChatGPT (OpenAI)**
+**Claude (Anthropic)**
 
-### Freemium & Premium
+### 👑 Freemium & Premium
+Comparison between Free and Premium plans (7-day trial available): full security, higher XP multipliers, more channels, and extra AI providers.
+
 
 | | **Free** | **Premium** |
 |--|----------|-------------|
