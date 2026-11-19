@@ -31,7 +31,7 @@ Idéal pour les serveurs **gaming**, **communautaires** et **créateurs** qui ve
 
 ### Fonctions principales
 
-### ⚙️ Administration (1 commande par ligne)
+### ⚙️ Administration
 - **`/settings`** : Panneau central de configuration (bienvenue, langues, giveaways, tickets, flux, vocaux temporaires).
 - **`/set ai`** : Configuration des fournisseurs d'IA, clés API, quotas et accès par rôle.
 - **`/protect`** : Panneau de sécurité Anti-Raid, DEFCON, Captcha, Honey Pot, Prison et Logs.
@@ -60,7 +60,12 @@ Idéal pour les serveurs **gaming**, **communautaires** et **créateurs** qui ve
 - **OutlawChat** : Assistant IA privé en message privé (DM).
 
 ### 🤖 Intelligence Artificielle (Hub Multi-Providers)
-- **Hub centralisé** : Suivi des coûts et quotas avec **Groq**, **Grok**, **Gemini**, **ChatGPT (OpenAI)** et **Claude (Anthropic)**.
+- **Hub centralisé** : Suivi des coûts et quotas avec
+- **Groq**
+- **Grok**
+- **Gemini**
+- **ChatGPT (OpenAI)**
+- **Claude (Anthropic)**.
 
 ### 👑 Freemium & Premium
 Comparaison des offres gratuite et premium (essai de 7 jours disponible) : sécurité complète, multiplicateurs d'XP accrus, plus de salons et de fournisseurs IA.
@@ -114,7 +119,7 @@ Built for **gaming**, **community**, and **creator** servers that want a strong 
 
 ### Core capabilities
 
-### ⚙️ Administration (1 command per line)
+### ⚙️ Administration
 - **`/settings`**: Central configuration dashboard (welcome, languages, giveaways, tickets, feeds, temp voice).
 - **`/set ai`**: Configuration for AI providers, API keys, quotas, and role access.
 - **`/protect`**: Security dashboard for Anti-Raid, DEFCON, Captcha, Honey Pot, Jail, and Logs.
