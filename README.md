@@ -205,6 +205,6 @@ Comparison between Free and Premium plans (7-day trial available): full security
 
 ---
 
-*[Outlaw A.I. — Inviter le bot / Invite Bot](https://discord.com/oauth2/authorize?client_id=1563969988144922816&permissions=8&integration_type=0&scope=bot+applications.commands) — Freemium Discord bot · Security · Engagement · AI · Multilingual*
+*[Outlaw A.I. — Inviter le bot / Invite Bot](https://discord.com/oauth2/authorize?client_id=1563969988144922816&permissions=8&integration_type=0&scope=bot+applications.commands)- [Serveur Support & Gaming](ttps://discord.gg/x6pB9v2r2s) — Freemium Discord bot · Security · Engagement · AI · Multilingual*
 
 </div>
