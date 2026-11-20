@@ -200,8 +200,8 @@ Comparison between Free and Premium plans (7-day trial available): full security
 
 ### Tagline
 
-**FR :** *Un bot. Une config claire. Une communauté qui scale.*  
-**EN :** *One bot. Clear setup. A community that scales.*
+**FR :** *Un bot. Une config claire. Une communauté.*  
+**EN :** *One bot. Clear setup. A community.*
 
 ---
 
