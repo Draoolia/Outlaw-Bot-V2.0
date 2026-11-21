@@ -3,8 +3,10 @@
 **The all-in-one Discord bot for communities that want security, engagement, and style — without juggling five different bots.**
 
 **Le bot Discord tout-en-un pour les communautés qui veulent sécurité, animation et style — sans empiler cinq bots.**
-<a href='https://postimg.cc/zywxCFvG' target='_blank'><img src='https://i.postimg.cc/zywxCFvG/Screenshot-20261121-120320-Discord-(1).png' border='0' alt='Screenshot-20261121-120320-Discord-(1)'></a>
 
+<a href='https://postimg.cc/zywxCFvG' target='_blank'><img src='https://i.postimg.cc/zywxCFvG/Screenshot-20261121-120320-Discord-(1).png' border='0' alt='Screenshot-20261121-120320-Discord-(1)'></a> 
+<img width="1376" height="768" alt="image_97d3f625" src="https://github.com/user-attachments/assets/14cadb81-9505-45a6-a82e-612d8940e889" />
+<div align="center"> <a href='https://postimg.cc/YGPRrXnt' target='_blank'><img src='https://i.postimg.cc/YGPRrXnt/Screenshot-20261121-120333-Discord-(1).png' border='0' alt='Screenshot-20261121-120333-Discord-(1)'></a>
 <p>
   <a href="#-français">
     <img src="https://shields.io🇫🇷_Français-0055A4?style=for-the-badge" alt="Version Française">
