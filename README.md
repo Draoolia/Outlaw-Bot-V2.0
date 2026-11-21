@@ -5,6 +5,7 @@
 **The all-in-one Discord bot for communities that want security, engagement, and style — without juggling five different bots.**
 
 **Le bot Discord tout-en-un pour les communautés qui veulent sécurité, animation et style — sans empiler cinq bots.**
+
 video :https://youtu.be/nOokfqdMcZ4
 
 
