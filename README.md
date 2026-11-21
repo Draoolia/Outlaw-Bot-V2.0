@@ -1,7 +1,5 @@
-<img width="1376" height="768" alt="image_97d3f625" src="https://github.com/user-attachments/assets/14cadb81-9505-45a6-a82e-612d8940e889" />
-<div align="center"> <a href='https://postimg.cc/YGPRrXnt' target='_blank'><img src='https://i.postimg.cc/YGPRrXnt/Screenshot-20261121-120333-Discord-(1).png' border='0' alt='Screenshot-20261121-120333-Discord-(1)'></a>
-
-# Outlaw A.I.
+ <img width="1376" height="768" alt="image_97d3f625" src="https://github.com/user-attachments/assets/14cadb81-9505-45a6-a82e-612d8940e889" />
+<div align="center"> <a href='https://postimg.cc/YGPRrXnt' target='_blank'><img src='https://i.postimg.cc/YGPRrXnt/Screenshot-20261121-120333-Discord-(1).png' border='0' alt='Screenshot-20261121-120333-Discord-(1)'></a># Outlaw A.I.
 
 **The all-in-one Discord bot for communities that want security, engagement, and style — without juggling five different bots.**
 
