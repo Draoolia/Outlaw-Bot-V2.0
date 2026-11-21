@@ -6,7 +6,7 @@
 **The all-in-one Discord bot for communities that want security, engagement, and style — without juggling five different bots.**
 
 **Le bot Discord tout-en-un pour les communautés qui veulent sécurité, animation et style — sans empiler cinq bots.**
-https://postimg.cc/zywxCFvG
+<a href='https://postimg.cc/zywxCFvG' target='_blank'><img src='https://i.postimg.cc/zywxCFvG/Screenshot-20261121-120320-Discord-(1).png' border='0' alt='Screenshot-20261121-120320-Discord-(1)'></a>
 
 <p>
   <a href="#-français">
