@@ -1,11 +1,11 @@
 # Outlaw A.I.
 <img width="1280" height="714" alt="20261115_183009" src="https://github.com/user-attachments/assets/c5fab95c-306d-4de4-8451-db9d0df09581" />
-video :https://youtu.be/nOokfqdMcZ4
 
 
 **The all-in-one Discord bot for communities that want security, engagement, and style — without juggling five different bots.**
 
 **Le bot Discord tout-en-un pour les communautés qui veulent sécurité, animation et style — sans empiler cinq bots.**
+video :https://youtu.be/nOokfqdMcZ4
 
 
 </a>
