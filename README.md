@@ -5,8 +5,7 @@
 **The all-in-one Discord bot for communities that want security, engagement, and style — without juggling five different bots.**
 
 **Le bot Discord tout-en-un pour les communautés qui veulent sécurité, animation et style — sans empiler cinq bots.**
-<img width="1080" height="917" alt="Screenshot_20261121-120333_Discord (1)" src="https://github.com/user-attachments/assets/d3b211a3-e3da-44f5-9369-a8a7eff8727d" />
-<img width="1080" height="911" alt="Screenshot_20261121-120320_Discord (1)" src="https://github.com/user-attachments/assets/145687f7-fd4e-48ff-bf8c-aaf089825376" />
+<img width="1080" height="917" alt="Screenshot_20261121-120333_Discord (1)" src="https://github.com/user-attachments/assets/d3b211a3-e3da-44f5-9369-a8a7eff8727d" /><img width="1080" height="911" alt="Screenshot_20261121-120320_Discord (1)" src="https://github.com/user-attachments/assets/145687f7-fd4e-48ff-bf8c-aaf089825376" />
 
 
 </a>
