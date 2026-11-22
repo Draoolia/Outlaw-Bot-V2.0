@@ -13,12 +13,12 @@ video :https://youtu.be/nOokfqdMcZ4
 
 </a>
 <p align="middle">
-  <a href="#-🇫🇷français">
-    <img src="https://shields.io🇫🇷_Français-0055A4?style=for-the-badge" alt="Version Française">
+  <a href="#-français">
+    <img src="https://shields.io🇫🇷_Français-0055A4?style=for-the-badge" alt="🇫🇷Version Française">
   </a>
   &nbsp;
-  <a href="#-🇺🇸english">
-    <img src="https://shields.io🇬🇧_English-CF142B?style=for-the-badge" alt="English Version">
+  <a href="#-english">
+    <img src="https://shields.io🇬🇧_English-CF142B?style=for-the-badge" alt="🇺🇸English Version">
   </a>
 </p>
 
