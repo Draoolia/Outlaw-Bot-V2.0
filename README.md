@@ -12,7 +12,7 @@ video :https://youtu.be/nOokfqdMcZ4
 
 
 </a>
-<p align="right">
+<p align="middle">
   <a href="#-français">
     <img src="https://shields.io🇫🇷_Français-0055A4?style=for-the-badge" alt="Version Française">
   </a>
